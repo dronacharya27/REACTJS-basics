@@ -1,0 +1,19 @@
+.productlist{
+
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.card{
+    height:500px;
+    margin: 10px;
+}
+
+.image{
+    object-fit: contain;
+    margin: 5px;
+    height: 200px;
+}
