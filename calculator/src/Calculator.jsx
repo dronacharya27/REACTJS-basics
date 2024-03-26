@@ -29,13 +29,16 @@ export default function Calculator() {
       <button onClick={aparm} value="2">
         YASH GAURAV
       </button>
-<<<<<<< HEAD
+
       <button>Dron</button>
-=======
+
       <button onClick={aparm} value="2">
         EK aur button
       </button>
->>>>>>> 0b1e82b (New button)
+      <button onClick={aparm} value="2">
+        Dron aur button
+      </button>
+
     </div>
   );
 }
