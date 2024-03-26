@@ -40,7 +40,7 @@ export default function Calculator() {
       <button>Dron</button>
 
       <button onClick={aparm} value="2">
-        EK aur button
+        EK aur btn
       </button>
       <button onClick={aparm} value="2">
         Dron aur button
