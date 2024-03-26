@@ -48,18 +48,6 @@ export default function Calculator() {
       <button onClick={aparm} value="2">
         Yash ka button
       </button>
-      <button onClick={aparm} value="2">
-        Yash ka button2
-      </button>
-      <button onClick={aparm} value="2">
-        Yash ka button3
-      </button>
-      <button onClick={aparm} value="2">
-        Yash ka button4
-      </button>
-      <button onClick={aparm} value="2">
-        Yash ka button5
-      </button>
     </div>
   );
 }
