@@ -48,6 +48,9 @@ export default function Calculator() {
       <button onClick={aparm} value="2">
         Yash ka button
       </button>
+      <button onClick={aparm} value="2">
+       ye delete mat karna
+      </button>
     </div>
   );
 }
