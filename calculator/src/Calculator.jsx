@@ -34,19 +34,22 @@ export default function Calculator() {
         2
       </button>
       <button onClick={aparm} value="2">
-        YASH GAURAV
+        YASH KISHOR
       </button>
 
       <button>Dron</button>
 
       <button onClick={aparm} value="2">
-        EK aur button
+        EK aur btn
       </button>
       <button onClick={aparm} value="2">
         Dron aur button
       </button>
       <button onClick={aparm} value="2">
         Yash ka button
+      </button>
+      <button onClick={aparm} value="2">
+       ye delete mat karna
       </button>
     </div>
   );
