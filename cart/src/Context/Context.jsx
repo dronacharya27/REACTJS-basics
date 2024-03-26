@@ -11,6 +11,7 @@ const initialstate = {
 }
 const CartProvider =({children}) =>{
 const[state,dispatch] = useReducer(reducer,initialstate)
+
 const add_to_cart = (id,product)=>{
     
     dispatch({
