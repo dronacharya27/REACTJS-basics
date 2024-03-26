@@ -23,9 +23,16 @@ export default function Calculator() {
 
   return (
     <div>
-      
-        <h1> {result}</h1>
-      <button onClick={ aparm} value='1' >1</button><button onClick={ChangeResult} value='+'>+</button><button onClick={bparm} value='2'>2</button>
+      <h1> {result}</h1>
+      <button onClick={aparm} value="1">
+        1
+      </button>
+      <button onClick={ChangeResult} value="+">
+        +
+      </button>
+      <button onClick={bparm} value="2">
+        2
+      </button>
       <button onClick={aparm} value="2">
         YASH GAURAV
       </button>
@@ -38,7 +45,9 @@ export default function Calculator() {
       <button onClick={aparm} value="2">
         Dron aur button
       </button>
-
+      <button onClick={aparm} value="2">
+        Yash ka button
+      </button>
     </div>
   );
 }
