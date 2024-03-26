@@ -34,7 +34,7 @@ export default function Calculator() {
         2
       </button>
       <button onClick={aparm} value="2">
-        YASH GAURAV
+        YASH KISHOR
       </button>
 
       <button>Dron</button>
